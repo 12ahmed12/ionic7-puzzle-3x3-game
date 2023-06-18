@@ -1,0 +1,7 @@
+{
+  "name": "ionic7-puzzle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
